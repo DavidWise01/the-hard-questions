@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THE_HARD_QUESTIONS",
+  "name": "THE HARD QUESTIONS · HQ1",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦THE HARD QUESTIONS · HQ1:the-hard-questions:c5f74c⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "c5f74c5464dc37c7f24cdd0eab537c5628875d04daefdf662ce3590c26effb3d",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
