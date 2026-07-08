@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 72
+slug  : the-hard-questions
+seal  : c5f74c5464dc37c7f24cdd0eab537c5628875d04daefdf662ce3590c26effb3d
+prev  : 96457cfefc19dc80bdecc7102410ea0dfa340f77073b989d949870a76b47ffa2
+link  : 768977e80799313fbc131764e826156a1db70e2130be4fb4ab38f20df7dff959
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
